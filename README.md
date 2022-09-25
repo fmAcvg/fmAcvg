@@ -2,7 +2,7 @@
 
 🔭 I love coding
 - 🌱 i am 14 years old
-- 👯 student at Ernst - Abbe - Gymnasium Eisenach                                                           ![stack Overflow](https://media.giphy.com/media/X2A2d62PrrMCk/giphy.gif)
+- 👯 student at Ernst - Abbe - Gymnasium Eisenach                                                         
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like cats more than dogs                            
 
