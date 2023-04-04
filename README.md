@@ -1,8 +1,7 @@
 ### Hi there, i am Lars 👋
 
 🔭 I love coding
-- 🌱 i am 14 years old
-- 👯 student at Ernst - Abbe - Gymnasium Eisenach                                                         
+- 🌱 i am 14 years old                                                   
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like cats more than dogs                            
 
