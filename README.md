@@ -1,9 +1,9 @@
 ### Hi there, i am Lars 👋
 
 🔭 I love coding
-- 🌱 i am 14 years old                                                   
+- 🌱 i am 16 years old                                                   
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i like cats more than dogs                            
+
 
 
 ![stack Overflow](https://media.giphy.com/media/X2A2d62PrrMCk/giphy.gif)
