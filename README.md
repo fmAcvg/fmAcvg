@@ -5,14 +5,13 @@
 
 ---
 
-## 🧑‍💻 Profile
+##  Profile
 
 - **Name:** Lars Höhn  
 - **Pronouns:** he/him  
 - **Age:** 17  
 - **Nationality:** German 🇩🇪  
-- **Tagline:** *AI lover ❤️*  
-- **Goal:** Future job goal: **AI researcher** — I believe on our way to reach AGI there's much more than just LLMs.  
+- **Goal:** Future job goal: **AI researcher**. I believe on our way to reach AGI there's much more than just LLMs.  
 - **School:** Ernst-Abbe-Gymnasium Eisenach  
 - **Graduation:** Abitur in 2026  
 
@@ -24,16 +23,16 @@
 
 | AI / Data | Programming | Tools |
 |-----------|-------------|-------|
-| AI interested 🤖 | Python 🐍 | Git |
+| AI interested  | Python  | Git |
 |              | JavaScript | IntelliJ IDEA |
-|              | React ⚛️ | Teamwork 🤝 |
-|              | LeetCode 🧠 | |
+|              | React  | Teamwork 🤝 |
+|              | LeetCode  | |
 
 </div>
 
 ---
 
-## 📫 Contact
+## Contact
 
 <p align="center">
   <a href="mailto:larshoeh@icloud.com"><img src="https://img.shields.io/badge/Email-larshoeh%40icloud.com-blue?logo=gmail&logoColor=white" /></a>
@@ -44,7 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
 <div align="center">
 
