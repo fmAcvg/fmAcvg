@@ -46,7 +46,6 @@
 
 <div align="center">
 
-![Lars's GitHub stats](https://github-readme-stats.vercel.app/api?username=fmAcvg&show_icons=true&theme=github_dark&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmAcvg&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
