@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Skills
+## Skills
 
 <div align="center">
 
@@ -25,7 +25,7 @@
 |-----------|-------------|-------|
 | AI interested  | Python  | Git |
 |              | JavaScript | IntelliJ IDEA |
-|              | React  | Teamwork 🤝 |
+|              | React  | Teamwork |
 |              | LeetCode  | |
 
 </div>
