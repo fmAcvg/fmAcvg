@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Lars+H%C3%B6hn;AI+Lover+%E2%9D%A4%EF%B8%8F;Future+AI+Researcher;Always+learning+and+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Lars+H%C3%B6hn;AI+enthusiast%E2%9D%A4%EF%B8%8F;Future+AI+Researcher;learning+and+building" alt="Typing SVG" />
 </p>
 
 ---
