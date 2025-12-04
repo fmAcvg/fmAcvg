@@ -10,8 +10,8 @@
 - **Name:** Lars Höhn  
 - **Pronouns:** he/him  
 - **Age:** 17  
-- **Nationality:** German 🇩🇪  
-- **Goal:** Future job goal: **AI researcher**. I believe on our way to reach AGI there's much more than just LLMs.  
+- **Nationality:** German 
+- **Goal:** Future job goal: AI researcher. I believe on our way to reach AGI there's much more than just LLMs.  
 - **School:** Ernst-Abbe-Gymnasium Eisenach  
 - **Graduation:** Abitur in 2026  
 
@@ -46,7 +46,6 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmAcvg&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
