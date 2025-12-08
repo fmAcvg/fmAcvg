@@ -11,7 +11,7 @@
 - **Pronouns:** he/him  
 - **Age:** 17  
 - **Nationality:** German 
-- **Goal:** Future job goal: AI researcher. I believe on our way to reach AGI there's much more than just LLMs.  
+- **Goal:** Future job goal: AI researcher. I believe on our way to reach AGI there's much more than just scaling LLMs.  
 - **School:** Ernst-Abbe-Gymnasium Eisenach  
 - **Graduation:** Abitur in 2026  
 
